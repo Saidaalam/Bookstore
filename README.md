@@ -1,4 +1,4 @@
-Bookstore Application
+Bookstore Application :
 
 A full-stack application for managing books and orders in a bookstore, with revenue calculation functionality.
 
